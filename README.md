@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-I had done my **B.Tech Computer Science Engineering with Cyber Security Graduate** at **SRM Institute of Science and Technology**.
+I had done my **B.Tech Computer Science Engineering with Cyber Security** at **SRM Institute of Science and Technology**.
 
 I’m interested in:
 
