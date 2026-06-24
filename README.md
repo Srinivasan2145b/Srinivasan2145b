@@ -50,17 +50,3 @@ I love building real-world projects and learning how to secure digital systems.
 
 ---
 
-## 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Srinivasan2145b&theme=tokyonight&no-frame=true&row=1)
-
----
-
-## 🚀 Projects to Pin
-
-- DNAcrypt – Web DNA Encryption Simulator  
-- ShadowCrypt – AES + LSB Steganography  
-- Phishing Detection System  
-- SRM Online News Portal  
-- OTP Verification System  
-- File Encryption Tool  
