@@ -1,4 +1,4 @@
-# Hi!! there I'm [Srinivasan](https://srinivasan2145b.github.io)
+# Hi!! there I'm [Srinivasan]
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=600&lines=Cybersecurity+Student;Full+Stack+Developer;Ethical+Hacking+Enthusiast;Always+Learning+%26+Building" />
 
